@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.exe.config
+C:\Users\user\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.exe
+C:\Users\user\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\user\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form1.resources
+C:\Users\user\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\user\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.exe
+C:\Users\user\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\user\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.AdminSayfasi.resources
+C:\Users\user\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.UyeSayfası.resources
+C:\Users\Pc\OneDrive\Masaüstü\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\Pc\OneDrive\Masaüstü\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.exe
+C:\Users\Pc\OneDrive\Masaüstü\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.pdb
